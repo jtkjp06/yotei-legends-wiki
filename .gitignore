@@ -1,2 +1,21 @@
 settings.local.json
 site/
+
+# === 認証情報・署名鍵（自動追記） ===
+.env
+.env.*
+*.pem
+*.key
+*.jks
+*.keystore
+*.p12
+*.pfx
+credentials.json
+serviceAccountKey*.json
+
+credential/
+*-firebase-adminsdk-*
+
+.boto*
+secrets/
+.env.local

@@ -1,0 +1,23 @@
+# 認証情報・秘密鍵をAI / Gitから除外
+.env
+.env.*
+.secrets
+*.pem
+*.key
+*.jks
+*.keystore
+*.p12
+*.pfx
+credentials.*
+serviceAccountKey*
+google-services.json
+GoogleService-Info.plist
+
+# === 追記: Firebase Admin SDK / credential ディレクトリ ===
+credential/
+*-firebase-adminsdk-*
+
+# === 追記: GCP/Docker credential ===
+.boto*
+secrets/
+.env.local
