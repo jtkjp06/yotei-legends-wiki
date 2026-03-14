@@ -34,6 +34,7 @@ description: "冥人奇譚 攻略wiki の全ページ一覧"
 - [初心者ガイド](guide/beginner.md)
 - [気レベル上げ・周回](guide/ki-farming.md)
 - [九死の立ち回り](guide/survival-tips.md)
+- [ステージギミック解説](guide/gimmicks.md)
 
 ## その他
 

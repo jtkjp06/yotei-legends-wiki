@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a00;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#3d1a00;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e65100;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ff8f00;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <!-- Subtle circle pattern -->
+  <circle cx="400" cy="225" r="180" fill="none" stroke="rgba(230,81,0,0.12)" stroke-width="2"/>
+  <circle cx="400" cy="225" r="140" fill="none" stroke="rgba(230,81,0,0.08)" stroke-width="1"/>
+  <!-- Silhouette of katana -->
+  <g transform="translate(400,225)" filter="url(#glow)">
+    <!-- Sword blade -->
+    <rect x="-6" y="-160" width="12" height="220" rx="3" fill="url(#acc)" opacity="0.85"/>
+    <!-- Guard (tsuba) -->
+    <ellipse cx="0" cy="60" rx="30" ry="8" fill="#ff8f00" opacity="0.9"/>
+    <!-- Handle (tsuka) -->
+    <rect x="-7" y="68" width="14" height="80" rx="4" fill="#bf360c" opacity="0.9"/>
+    <!-- Pommel -->
+    <ellipse cx="0" cy="148" rx="10" ry="6" fill="#e65100" opacity="0.9"/>
+  </g>
+  <!-- Label strip -->
+  <rect x="0" y="380" width="800" height="70" fill="rgba(0,0,0,0.55)"/>
+  <text x="400" y="405" font-family="'Noto Sans JP', sans-serif" font-size="13" fill="rgba(255,200,100,0.6)" text-anchor="middle">キャラクター画像 準備中</text>
+  <text x="400" y="435" font-family="'Noto Sans JP', sans-serif" font-size="28" font-weight="bold" fill="#ff8f00" text-anchor="middle" filter="url(#glow)">侍（Samurai）</text>
+</svg>

@@ -5,6 +5,13 @@ description: "弓取のフォーカス武器・スキル・ビルド方針"
 
 # 弓取（Archer）
 
+<div class="wiki-img-wrap">
+  <img src="../images/placeholder_archer.svg" alt="弓取（Archer）キャラクター画像（準備中）">
+</div>
+
+!!! note "画像について"
+    キャラクター・スキルのスクリーンショットをお持ちの方は [GitHub](https://github.com/jtkjp06/yotei-legends-wiki) でPRをお送りください。
+
 ## 基本情報
 
 | 項目 | 内容 |
