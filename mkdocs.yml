@@ -1,6 +1,6 @@
 site_name: "冥人奇譚 攻略wiki"
 site_description: "Ghost of Yōtei（ゴースト・オブ・ヨウテイ）冥人奇譚（Legends）の日本語攻略wiki"
-repo_url: "https://github.com/YOUR_USERNAME/yotei-legends-wiki"
+repo_url: "https://github.com/jtkjp06/yotei-legends-wiki"
 repo_name: "yotei-legends-wiki"
 
 theme:
@@ -81,4 +81,4 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: "https://github.com/YOUR_USERNAME/yotei-legends-wiki"
+      link: "https://github.com/jtkjp06/yotei-legends-wiki"
