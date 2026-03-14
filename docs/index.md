@@ -3,9 +3,10 @@ title: "冥人奇譚 攻略wiki"
 description: "Ghost of Yōtei（ゴースト・オブ・ヨウテイ）冥人奇譚（Legends）の日本語攻略wiki"
 ---
 
-# 冥人奇譚（Legends）攻略wiki
-
-Ghost of Yōtei の無料DLC「冥人奇譚（Legends）」の日本語攻略wikiです。
+<div class="hero-banner" markdown>
+<h1>⚔️ 冥人奇譚 攻略wiki</h1>
+<p>Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki</p>
+</div>
 
 !!! info "配信情報"
     - **配信日**: 2026年3月11日（無料DLC）
@@ -23,19 +24,58 @@ Ghost of Yōtei の無料DLC「冥人奇譚（Legends）」の日本語攻略wik
 - 例：狐（Kitsune）配下に Snow Woman（雪女、冷気使いエリート）
 - 例：蛇（Snake）配下に召喚師
 
+---
+
 ## クラス一覧
 
-| クラス | フォーカス武器 | 立ち回りイメージ |
-|--------|--------------|----------------|
-| [侍（Samurai）](classes/samurai.md) | 大太刀（Odachi） | 前線維持・奥義火力 |
-| [弓取（Archer）](classes/archer.md) | 槍（Yari） | 遠距離殲滅・エリート処理 |
-| [用心棒（Mercenary）](classes/mercenary.md) | 二刀（Dual Katanas） | 投げデバフ・サポート火力 |
-| [忍（Shinobi）](classes/shinobi.md) | 鎖鎌（Kusarigama） | 暗殺・ギミック処理 |
+<div class="grid cards" markdown>
 
-- 各クラスは独自のテックツリーを持つ（PS公式）
-- フォーカス武器以外も装備可能（PS公式）
-- 全クラスで銃（種子島）が装備可能（5ch実測）
-- 気力消費で体力回復が可能（本作新要素）（5ch実測）
+- :fontawesome-solid-torii-gate: **侍（Samurai）**
+
+    ---
+
+    フォーカス武器：**大太刀（Odachi）**  
+    役割：前線維持・範囲火力・ラストウェーブの切り札
+
+    [:octicons-arrow-right-24: 侍の攻略ガイドへ](classes/samurai.md)
+
+- :fontawesome-solid-bow-arrow: **弓取（Archer）**
+
+    ---
+
+    フォーカス武器：**槍（Yari）**  
+    役割：遠距離殲滅・エリート処理・内経の眼ハメ
+
+    [:octicons-arrow-right-24: 弓取の攻略ガイドへ](classes/archer.md)
+
+- :fontawesome-solid-user-ninja: **用心棒（Mercenary）**
+
+    ---
+
+    フォーカス武器：**二刀（Dual Katanas）**  
+    役割：デバフばらまき・サポート火力
+
+    [:octicons-arrow-right-24: 用心棒の攻略ガイドへ](classes/mercenary.md)
+
+- :fontawesome-solid-ghost: **忍（Shinobi）**
+
+    ---
+
+    フォーカス武器：**鎖鎌（Kusarigama）**  
+    役割：暗殺・ギミック処理・ヘイト分散
+
+    [:octicons-arrow-right-24: 忍の攻略ガイドへ](classes/shinobi.md)
+
+</div>
+
+!!! tip "クラス選びのポイント"
+    - **初心者向け**: 侍・用心棒（シンプルな立ち回りで活躍しやすい）
+    - **FPS得意**: 弓取（ヘッドショット精度が全て。装備が揃えば最強）
+    - **やり込み向け**: 忍（格20解放が必須。育つまでが弱い）
+
+    → 全クラスで格20解放が重要。黄金九死に行く前に格20まで育てよう。（5ch実測）
+
+---
 
 ## 難易度
 
@@ -50,6 +90,8 @@ Ghost of Yōtei の無料DLC「冥人奇譚（Legends）」の日本語攻略wik
 !!! warning "推奨気について"
     公式の推奨気は実態より低め。黄金の推奨65に対し、80以上ないと野良では厳しいとの報告多数。（5ch実測）
 
+---
+
 ## 進行ガイド（ざっくり）
 
 1. **悪鬼成敗（奇譚）** を赤銅で一通りクリア → クラス解放・操作習熟
@@ -60,32 +102,103 @@ Ghost of Yōtei の無料DLC「冥人奇譚（Legends）」の日本語攻略wik
 
 → 詳細は [初心者ガイド](guide/beginner.md) へ
 
+---
+
 ## モード一覧
 
-| モード | 人数 | 概要 |
-|--------|------|------|
-| [悪鬼成敗（奇譚）](modes/story.md) | 2人 | ストーリーミッション。全12話（3×4セット） |
-| [九死](modes/survival.md) | 4人 | ウェーブ防衛。拠点維持が鍵 |
-| [攻城](modes/incursion.md) | 4人 | ボス戦付き高難度ミッション |
-| [レイド（大禍）](modes/raid.md) | 4人 | 2026年4月配信。エンドコンテンツ |
-| [百鬼](modes/hyakki.md) | 各種 | 最高難度。試しの符が強制 |
+<div class="grid cards" markdown>
+
+- :material-sword-cross: **悪鬼成敗（奇譚）**
+
+    ---
+
+    **2人協力** のストーリーミッション。全12話（3×4セット）。各セットクリアで攻城が解放される。
+
+    [:octicons-arrow-right-24: 奇譚ページへ](modes/story.md)
+
+- :material-shield-sword: **九死（サバイバル）**
+
+    ---
+
+    **4人協力** のウェーブ防衛。拠点を守りながら敵の波を捌く。陣の維持が最重要。
+
+    [:octicons-arrow-right-24: 九死ページへ](modes/survival.md)
+
+- :material-castle: **攻城**
+
+    ---
+
+    **最大4人** の大規模ミッション。ラストに羊蹄六人衆の大型ボス戦。
+
+    [:octicons-arrow-right-24: 攻城ページへ](modes/incursion.md)
+
+- :material-timer-sand: **レイド（大禍）**
+
+    ---
+
+    **2026年4月配信予定**。4人のエンドコンテンツ。
+
+    [:octicons-arrow-right-24: レイドページへ](modes/raid.md)
+
+- :material-skull: **百鬼**
+
+    ---
+
+    最高難度。白金クリア＋気80以上が必要。試しの符が強制付与。
+
+    [:octicons-arrow-right-24: 百鬼ページへ](modes/hyakki.md)
+
+</div>
+
+---
 
 ## 装備・ビルド
 
-| ページ | 内容 |
-|--------|------|
-| [装備システム](gear/index.md) | 気レベル・品質・スロットの基本 |
-| [ドロップアイテム一覧](gear/drops.md) | 入手可能な装備の一覧 |
-| [神品一覧](gear/legendary.md) | レジェンダリー装備の効果まとめ |
-| [特殊効果・パーク](gear/perks.md) | パーク一覧と組み合わせ |
+<div class="grid cards" markdown>
+
+- :material-sword: [**装備システム**](gear/index.md)
+
+    気レベル・品質・スロットの基本
+
+- :material-treasure-chest: [**ドロップアイテム一覧**](gear/drops.md)
+
+    入手可能な装備の一覧
+
+- :material-star-four-points: [**神品一覧**](gear/legendary.md)
+
+    レジェンダリー装備の効果まとめ
+
+- :material-cards: [**特殊効果・パーク**](gear/perks.md)
+
+    パーク一覧と組み合わせ
+
+</div>
+
+---
 
 ## 攻略ガイド
 
-| ページ | 内容 |
-|--------|------|
-| [初心者ガイド](guide/beginner.md) | 始め方・進行フロー |
-| [気レベル上げ・周回](guide/ki-farming.md) | 効率的な気レベル上げ方法 |
-| [九死の立ち回り](guide/survival-tips.md) | 九死を生き抜くコツ |
+<div class="grid cards" markdown>
+
+- :material-map-marker-path: [**初心者ガイド**](guide/beginner.md)
+
+    始め方・進行フロー
+
+- :material-trending-up: [**気レベル上げ・周回**](guide/ki-farming.md)
+
+    効率的な気レベル上げ方法
+
+- :material-shield-half-full: [**九死の立ち回り**](guide/survival-tips.md)
+
+    九死を生き抜くコツ
+
+- :material-puzzle: [**ステージギミック解説**](guide/gimmicks.md)
+
+    鬼火・陣占領ペナルティ・各マップ特有ギミック
+
+</div>
+
+---
 
 ## その他
 

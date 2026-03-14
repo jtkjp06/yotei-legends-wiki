@@ -5,6 +5,13 @@ description: "全神品装備の名前・スロット・固有効果"
 
 # 神品（レジェンダリー）一覧
 
+<div class="wiki-img-wrap">
+  <img src="../images/placeholder_item.svg" alt="神品アイテム画像（準備中）">
+</div>
+
+!!! note "画像について"
+    神品の外観スクリーンショットをお持ちの方は [GitHub](https://github.com/jtkjp06/yotei-legends-wiki) でPRをお送りください。
+
 !!! info "情報源"
     goylegends.com の一覧をベースに、5chスレの実測効果を追記。
     固有効果欄の「要検証」は未確認情報。

@@ -5,6 +5,13 @@ description: "忍のフォーカス武器・スキル・ビルド方針"
 
 # 忍（Shinobi）
 
+<div class="wiki-img-wrap">
+  <img src="../images/placeholder_shinobi.svg" alt="忍（Shinobi）キャラクター画像（準備中）">
+</div>
+
+!!! note "画像について"
+    キャラクター・スキルのスクリーンショットをお持ちの方は [GitHub](https://github.com/jtkjp06/yotei-legends-wiki) でPRをお送りください。
+
 ## 基本情報
 
 | 項目 | 内容 |
