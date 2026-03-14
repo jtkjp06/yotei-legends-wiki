@@ -1,0 +1,88 @@
+site_name: "冥人奇譚 攻略wiki"
+site_url: https://jtkjp06.github.io/yotei-legends-wiki/
+site_description: "Ghost of Yōtei: Legends（冥人奇譚）の攻略wiki"
+site_author: "冥人奇譚 攻略wiki 編集部"
+repo_url: https://github.com/jtkjp06/yotei-legends-wiki
+repo_name: jtkjp06/yotei-legends-wiki
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替え
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替え
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+
+plugins:
+  - search:
+      lang: ja
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+nav:
+  - ホーム: index.md
+  - クラス攻略:
+      - 概要: classes/index.md
+      - 侍: classes/samurai.md
+      - 弓取: classes/archer.md
+      - 用心棒: classes/mercenary.md
+      - 忍: classes/shinobi.md
+  - モード別攻略:
+      - 概要: modes/index.md
+      - 悪鬼成敗（奇譚）: modes/story.md
+      - 九死（サバイバル）: modes/survival.md
+      - 攻城: modes/incursion.md
+      - レイド（大禍）: modes/raid.md
+      - 百鬼: modes/hyakki.md
+  - 装備・ビルド:
+      - 装備システム: gear/index.md
+      - 神品一覧: gear/legendary.md
+      - 特殊効果・パーク: gear/perks.md
+  - 攻略ガイド:
+      - 初心者ガイド: guide/beginner.md
+      - 気レベル上げ・周回: guide/ki-farming.md
+      - 九死の立ち回り: guide/survival-tips.md
+  - 用語集: glossary.md
+  - 更新履歴: changelog.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jtkjp06/yotei-legends-wiki
+
+copyright: >
+  &copy; 2025 冥人奇譚 攻略wiki 編集部 —
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" target="_blank">CC BY-SA 4.0</a>
