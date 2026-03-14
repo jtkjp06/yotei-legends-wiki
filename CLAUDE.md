@@ -50,3 +50,11 @@ All content must cite sources using these categories (defined in `CONTRIBUTING.m
 | 要検証 | Unverified — wrap in `!!! warning` admonition |
 
 Use MkDocs admonition blocks for callouts (`!!! note`, `!!! warning`, `!!! tip`).
+
+## Navigation & Sitemap Rules
+
+When adding a new page to `docs/`, you **must** update all three of the following:
+
+1. **`mkdocs.yml` `nav:`** — add the page to the appropriate section so it appears in the left sidebar
+2. **`docs/sitemap.md`** — add a link under the matching section heading
+3. **`docs/index.md`** — add a link in the relevant table or list on the home page
