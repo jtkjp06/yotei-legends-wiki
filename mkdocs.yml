@@ -7,23 +7,26 @@ repo_name: "yotei-legends-wiki"
 theme:
   name: material
   language: ja
+  font:
+    text: Inter
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange
+      primary: black
       accent: amber
       toggle:
         icon: material/brightness-7
         name: ライトモードに切替
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep orange
+      primary: white
       accent: amber
       toggle:
         icon: material/brightness-4
         name: ダークモードに切替
   features:
     - navigation.instant
+    - navigation.instant.progress
     - navigation.tabs
     - navigation.sections
     - navigation.top
