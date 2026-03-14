@@ -8,16 +8,12 @@
       <stop offset="0%" style="stop-color:#e65100;stop-opacity:1"/>
       <stop offset="100%" style="stop-color:#ff8f00;stop-opacity:1"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
   <rect width="800" height="450" fill="url(#bg)"/>
   <circle cx="400" cy="225" r="180" fill="none" stroke="rgba(230,81,0,0.12)" stroke-width="2"/>
   <circle cx="400" cy="225" r="140" fill="none" stroke="rgba(230,81,0,0.08)" stroke-width="1"/>
   <!-- Dual katana silhouette -->
-  <g transform="translate(400,225)" filter="url(#glow)">
+  <g transform="translate(400,225)">
     <!-- Left blade (angled) -->
     <g transform="rotate(-20)">
       <rect x="-5" y="-150" width="10" height="190" rx="3" fill="url(#acc)" opacity="0.85"/>
@@ -33,5 +29,5 @@
   </g>
   <rect x="0" y="380" width="800" height="70" fill="rgba(0,0,0,0.55)"/>
   <text x="400" y="405" font-family="'Noto Sans JP', sans-serif" font-size="13" fill="rgba(255,200,100,0.6)" text-anchor="middle">キャラクター画像 準備中</text>
-  <text x="400" y="435" font-family="'Noto Sans JP', sans-serif" font-size="28" font-weight="bold" fill="#ff8f00" text-anchor="middle" filter="url(#glow)">用心棒（Mercenary）</text>
+  <text x="400" y="435" font-family="'Noto Sans JP', sans-serif" font-size="28" font-weight="bold" fill="#ff8f00" text-anchor="middle">用心棒（Mercenary）</text>
 </svg>

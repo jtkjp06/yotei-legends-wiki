@@ -39,12 +39,16 @@
 }
 
 /* ── グリッドカードのホバーアニメーション ── */
-.md-typeset .grid.cards > :is(ul, ol) > li {
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
   border-radius: 12px !important;
+  -webkit-transition: transform 0.22s ease, box-shadow 0.22s ease;
   transition: transform 0.22s ease, box-shadow 0.22s ease;
 }
 
-.md-typeset .grid.cards > :is(ul, ol) > li:hover {
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
   box-shadow: 0 10px 28px rgba(0, 0, 0, 0.22) !important;
 }
@@ -76,9 +80,13 @@
   border-radius: 12px;
   width: 100%;
   aspect-ratio: 16 / 9;
+  display: -webkit-flex;
   display: flex;
+  -webkit-flex-direction: column;
   flex-direction: column;
+  -webkit-align-items: center;
   align-items: center;
+  -webkit-justify-content: center;
   justify-content: center;
   gap: 0.5rem;
   color: rgba(255, 200, 100, 0.65);
@@ -86,6 +94,13 @@
   margin-bottom: 1.2rem;
   position: relative;
   overflow: hidden;
+}
+
+/* aspect-ratio fallback for older WebKit */
+@supports not (aspect-ratio: 16 / 9) {
+  .wiki-img-placeholder {
+    padding-top: 56.25%; /* 9/16 = 0.5625 */
+  }
 }
 
 .wiki-img-placeholder .placeholder-icon {

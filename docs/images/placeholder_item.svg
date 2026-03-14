@@ -8,15 +8,11 @@
       <stop offset="0%" style="stop-color:#e65100;stop-opacity:1"/>
       <stop offset="100%" style="stop-color:#ff8f00;stop-opacity:1"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
   <rect width="800" height="450" fill="url(#bg)"/>
   <circle cx="400" cy="205" r="160" fill="none" stroke="rgba(230,81,0,0.1)" stroke-width="2"/>
   <!-- Decorative diamond/gem shape for legendary item -->
-  <g transform="translate(400,200)" filter="url(#glow)">
+  <g transform="translate(400,200)">
     <polygon points="0,-120 80,-20 0,100 -80,-20" fill="url(#acc)" opacity="0.25" stroke="#ff8f00" stroke-width="2"/>
     <polygon points="0,-90 60,-15 0,75 -60,-15" fill="url(#acc)" opacity="0.45"/>
     <!-- Inner glow -->
@@ -26,11 +22,11 @@
     <line x1="5" y1="-65" x2="0" y2="-80" stroke="rgba(255,255,255,0.35)" stroke-width="2" stroke-linecap="round"/>
   </g>
   <!-- Stars decoration -->
-  <text x="170" y="200" font-size="20" fill="rgba(255,200,100,0.4)" filter="url(#glow)">✦</text>
+  <text x="170" y="200" font-size="20" fill="rgba(255,200,100,0.4)">✦</text>
   <text x="610" y="180" font-size="14" fill="rgba(255,200,100,0.3)">✦</text>
-  <text x="580" y="240" font-size="24" fill="rgba(255,200,100,0.35)" filter="url(#glow)">✦</text>
+  <text x="580" y="240" font-size="24" fill="rgba(255,200,100,0.35)">✦</text>
   <text x="200" y="270" font-size="16" fill="rgba(255,200,100,0.3)">✦</text>
   <rect x="0" y="380" width="800" height="70" fill="rgba(0,0,0,0.55)"/>
   <text x="400" y="405" font-family="'Noto Sans JP', sans-serif" font-size="13" fill="rgba(255,200,100,0.6)" text-anchor="middle">アイテム画像 準備中</text>
-  <text x="400" y="435" font-family="'Noto Sans JP', sans-serif" font-size="28" font-weight="bold" fill="#ff8f00" text-anchor="middle" filter="url(#glow)">装備・アイテム</text>
+  <text x="400" y="435" font-family="'Noto Sans JP', sans-serif" font-size="28" font-weight="bold" fill="#ff8f00" text-anchor="middle">装備・アイテム</text>
 </svg>

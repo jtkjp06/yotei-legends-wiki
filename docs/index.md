@@ -4,8 +4,11 @@ description: "Ghost of Yōtei（ゴースト・オブ・ヨウテイ）冥人奇
 ---
 
 <div class="hero-banner" markdown>
-<h1>⚔️ 冥人奇譚 攻略wiki</h1>
-<p>Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki</p>
+
+# ⚔️ 冥人奇譚 攻略wiki
+
+Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
+
 </div>
 
 !!! info "配信情報"
@@ -39,7 +42,7 @@ description: "Ghost of Yōtei（ゴースト・オブ・ヨウテイ）冥人奇
 
     [:octicons-arrow-right-24: 侍の攻略ガイドへ](classes/samurai.md)
 
-- :fontawesome-solid-bow-arrow: **弓取（Archer）**
+- :material-bow-arrow: **弓取（Archer）**
 
     ---
 
