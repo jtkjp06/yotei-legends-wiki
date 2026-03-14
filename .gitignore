@@ -1,6 +1,15 @@
 settings.local.json
 site/
 
+.venv/
+.claude/
+.cursor/
+.gemini/
+.vscode/
+.agent/
+.github/
+.codex/
+
 # === 認証情報・署名鍵（自動追記） ===
 .env
 .env.*
