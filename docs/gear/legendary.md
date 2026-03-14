@@ -6,7 +6,7 @@ description: "全神品装備の名前・スロット・固有効果"
 # 神品（レジェンダリー）一覧
 
 <div class="wiki-img-wrap">
-  <img src="../images/placeholder_item.svg" alt="神品アイテム画像（準備中）">
+  <img src="../images/placeholder_item.svg" alt="神品アイテム画像（準備中）" />
 </div>
 
 !!! note "画像について"

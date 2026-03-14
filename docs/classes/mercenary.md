@@ -6,7 +6,7 @@ description: "用心棒のフォーカス武器・スキル・ビルド方針"
 # 用心棒（Mercenary）
 
 <div class="wiki-img-wrap">
-  <img src="../images/placeholder_mercenary.svg" alt="用心棒（Mercenary）キャラクター画像（準備中）">
+  <img src="../images/placeholder_mercenary.svg" alt="用心棒（Mercenary）キャラクター画像（準備中）" />
 </div>
 
 !!! note "画像について"

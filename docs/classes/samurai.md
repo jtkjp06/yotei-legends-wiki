@@ -6,7 +6,7 @@ description: "侍のフォーカス武器・スキル・ビルド方針"
 # 侍（Samurai）
 
 <div class="wiki-img-wrap">
-  <img src="../images/placeholder_samurai.svg" alt="侍（Samurai）キャラクター画像（準備中）">
+  <img src="../images/placeholder_samurai.svg" alt="侍（Samurai）キャラクター画像（準備中）" />
 </div>
 
 !!! note "画像について"
