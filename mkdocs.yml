@@ -83,3 +83,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: "https://github.com/jtkjp06/yotei-legends-wiki"
+
+copyright: >
+  &copy; 2026 yotei-legends-wiki contributors —
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>
