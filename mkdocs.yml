@@ -69,6 +69,7 @@ nav:
     - 百鬼: modes/hyakki.md
   - 装備・ビルド:
     - 装備システム: gear/index.md
+    - ドロップアイテム一覧: gear/drops.md
     - 神品一覧: gear/legendary.md
     - 特殊効果・パーク: gear/perks.md
   - 攻略ガイド:
