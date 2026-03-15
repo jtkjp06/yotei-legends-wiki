@@ -208,3 +208,12 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 - [用語集](glossary.md) — ゲーム内用語の解説
 - [更新履歴](changelog.md) — wiki の更新ログ
 - [サイトマップ](sitemap.md) — 全ページ一覧
+
+---
+
+## このwikiについて
+
+!!! info "運営方針"
+    - **AI活用**: 本wikiの記事作成・編集には AI（Claude）を活用しています。最終的な内容の確認・修正は人間が行っています。
+    - **ソースコード公開**: 本wikiのソースコードは GitHub で公開しています → [:fontawesome-brands-github: yotei-legends-wiki](https://github.com/jtkjp06/yotei-legends-wiki)
+    - **情報の参照元**: 各記事の情報には出典ラベル（公式 / goylegends.com / 5ch実測 / 要検証）を付記しています。詳細は [CONTRIBUTING.md](https://github.com/jtkjp06/yotei-legends-wiki/blob/main/CONTRIBUTING.md) を参照してください。
