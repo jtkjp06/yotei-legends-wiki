@@ -6,6 +6,7 @@
 | Part | タイトル | URL | 期間（目安） | 備考 |
 |------|----------|-----|-------------|------|
 | Part1 | 【PS5】Ghost of Yotei ゴースト･オブ･ヨウテイ 放浪21日目 | [pug.5ch.io/...](https://pug.5ch.io/test/read.cgi/famicom/1772260586/) | 2026/02/28〜 | DLC配信前〜直後 |
+| Part2 | 【PS5】Ghost of Yotei ゴースト･オブ･ヨウテイ 放浪22日目 | [pug.5ch.io/...](https://pug.5ch.io/test/read.cgi/famicom/1773502432/) | 2026/03/15〜 | マルチプレイ（Legends）本格稼働後・新情報 |
 
 ## 注意
 
