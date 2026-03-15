@@ -199,6 +199,10 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 
     鬼火・陣占領ペナルティ・各マップ特有ギミック
 
+- :material-frequently-asked-questions: [**よくある質問（FAQ）**](guide/faq.md)
+
+    猛撃やボスの黄色攻撃・役目の仕様など
+
 </div>
 
 ---
