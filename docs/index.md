@@ -11,6 +11,9 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 
 </div>
 
+!!! tip "情報提供歓迎"
+    データの誤り・追加情報は [GitHub Issues](https://github.com/jtkjp06/yotei-legends-wiki/issues) まで。
+
 !!! info "配信情報"
     - **配信日**: 2026年3月11日（無料DLC）
     - **レイド（大禍）**: 2026年4月配信予定
@@ -76,7 +79,7 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
     - **FPS得意**: 弓取（ヘッドショット精度が全て。装備が揃えば最強）
     - **やり込み向け**: 忍（格20解放が必須。育つまでが弱い）
 
-    → 全クラスで格20解放が重要。黄金九死に行く前に格20まで育てよう。（5ch実測）
+    → 全クラスで格20解放が重要。黄金九死に行く前に格20まで育てよう。[（5ch報告）](sources/5ch-threads.md)
 
 ---
 
@@ -91,7 +94,7 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 | 百鬼 | 80＋白金クリア | 最高難度。試しの符が強制付与 |
 
 !!! warning "推奨気について"
-    公式の推奨気は実態より低め。黄金の推奨65に対し、80以上ないと野良では厳しいとの報告多数。（5ch実測）
+    公式の推奨気は実態より低め。黄金の推奨65に対し、80以上ないと野良では厳しいとの報告多数。[（5ch報告）](sources/5ch-threads.md)
 
 ---
 
@@ -220,4 +223,12 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 !!! info "運営方針"
     - **AI活用**: 本wikiの記事作成・編集には AI（Claude）を活用しています。最終的な内容の確認・修正は人間が行っています。
     - **ソースコード公開**: 本wikiのソースコードは GitHub で公開しています → [:fontawesome-brands-github: yotei-legends-wiki](https://github.com/jtkjp06/yotei-legends-wiki)
-    - **情報の参照元**: 各記事の情報には出典ラベル（公式 / goylegends.com / 5ch実測 / 要検証）を付記しています。詳細は [CONTRIBUTING.md](https://github.com/jtkjp06/yotei-legends-wiki/blob/main/CONTRIBUTING.md) を参照してください。
+    - **情報の参照元**: 各記事の情報には出典ラベル（公式 / goylegends.com / 5ch報告 / 要検証）を付記しています。詳細は [CONTRIBUTING.md](https://github.com/jtkjp06/yotei-legends-wiki/blob/main/CONTRIBUTING.md) を参照してください。
+
+---
+
+## ソース
+
+- [goylegends.com](https://goylegends.com/)（各種基本データ）
+- PS公式 — PlayStation Blog 2026/02/13
+- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)（>>278, >>375, >>403 等の難易度・推奨気に関する報告）

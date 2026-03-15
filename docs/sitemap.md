@@ -5,6 +5,9 @@ description: "冥人奇譚 攻略wiki の全ページ一覧"
 
 # サイトマップ
 
+- [このサイトについて](about.md)
+- [ホーム](index.md)
+
 ## クラス攻略
 
 - [クラス概要](classes/index.md)
@@ -40,4 +43,13 @@ description: "冥人奇譚 攻略wiki の全ページ一覧"
 ## その他
 
 - [用語集](glossary.md)
+- [5chスレ一覧](sources/5ch-threads.md)
 - [更新履歴](changelog.md)
+
+---
+
+## ソース
+
+- [goylegends.com](https://goylegends.com/)
+- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- PS公式

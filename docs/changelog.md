@@ -40,3 +40,11 @@ description: "このwikiとゲームのアップデート情報"
 ### 2026/3/15
 
 - wiki開設。初期コンテンツ公開
+
+---
+
+## ソース
+
+- [goylegends.com](https://goylegends.com/)
+- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- PS公式

@@ -20,3 +20,11 @@ description: "装備に付く特殊効果の一覧と解説"
 | 投げ物ダメージ | 投げ物威力UP | 全武具で盛れる模様 |
 | 受け流しの極意判定 | 極意の受付時間拡大 | 武器ごと？全体？要検証 |
 | 弾除け | 飛び道具被ダメ軽減 | 九死では重要 |
+
+---
+
+## ソース
+
+- [goylegends.com](https://goylegends.com/)
+- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- PS公式

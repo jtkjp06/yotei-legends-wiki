@@ -38,3 +38,11 @@ description: "冥人奇譚で使われる用語の解説"
 | 床ペロ | 死亡して這いつくばっている状態 |
 | 萎え抜け | クリア見込みがないと判断して途中退出すること |
 | タタレタマシ | 前作の経験値稼ぎ手法。今作での類似手法は未確認 |
+
+---
+
+## ソース
+
+- [goylegends.com](https://goylegends.com/)
+- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- PS公式

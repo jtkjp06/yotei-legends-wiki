@@ -23,7 +23,7 @@ description: "全神品装備の名前・スロット・固有効果"
 |------|---------|-----------|---------|
 | 轟雷刀 (Thunderous Katana) | 片刃刀 | 汎用 | 気力技使用時に30%で付近の敵吹き飛ばし |
 | 轟雷槍 (Thunderous Yari) | 槍 | 弓取 | 気力技の後に爆発、付近の敵弱体化 |
-| 稲妻打 (Lightning's Bite) | 二刀 | 用心棒 | 気力技の最後に高威力の炎上爆発（比較的近距離、確率100%ではない模様）（5ch実測） |
+| 稲妻打 (Lightning's Bite) | 二刀 | 用心棒 | 気力技の最後に高威力の炎上爆発（比較的近距離、確率100%ではない模様）[（5ch報告）](../sources/5ch-threads.md) |
 | 巌の大太刀 (Blade of Mountains) | 大太刀 | 侍 | 気力技ヒット時に体力回復 |
 | 鎖鎌 隠 (Vanishing Kusarigama) | 鎖鎌 | 忍 | 気力技で倒すと霧隠れになる |
 
@@ -34,7 +34,7 @@ description: "全神品装備の名前・スロット・固有効果"
 | 半弓 風巻 (Hurricane Hankyu) | 半弓 | 2倍連射・照準不可・脆弱付与 |
 | 水切の長弓 (Skipping Stone Bow) | 和弓 | HSで近くの敵に反射 |
 | 必中の長弓 (True Aim Yumi) | 和弓 | ロックオンして矢を3本同時射出 ※3/14ナーフ済み |
-| 種子島 早合 (Lightning Tanegashima) | 種子島 | HSかトドメで即座に装填。弓取のHS弾消費なしが適用される（5ch実測） |
+| 種子島 早合 (Lightning Tanegashima) | 種子島 | HSかトドメで即座に装填。弓取のHS弾消費なしが適用される[（5ch報告）](../sources/5ch-threads.md) |
 
 ## ゴースト武器
 
@@ -62,3 +62,11 @@ description: "全神品装備の名前・スロット・固有効果"
 | 忍の影 (Shinobi's Shadow) | 忍専用 | 霧隠れ中の闇討ちで再発動（二連と重複） |
 
 **確認済み全24件**（WIPにつき増える可能性あり）
+
+---
+
+## ソース
+
+- [goylegends.com](https://goylegends.com/)
+- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- PS公式

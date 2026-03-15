@@ -64,6 +64,7 @@ markdown_extensions:
       permalink: true
 
 nav:
+  - このサイトについて: about.md
   - ホーム: index.md
   - クラス攻略:
     - 概要: classes/index.md
@@ -90,6 +91,7 @@ nav:
     - ステージギミック解説: guide/gimmicks.md
     - よくある質問（FAQ）: guide/faq.md
   - 用語集: glossary.md
+  - 5chスレ一覧: sources/5ch-threads.md
   - 更新履歴: changelog.md
   - サイトマップ: sitemap.md
 
@@ -99,6 +101,10 @@ extra:
       link: "https://github.com/jtkjp06/yotei-legends-wiki"
 
 copyright: >
+  Data sources:
+  <a href="https://goylegends.com/">goylegends.com</a> /
+  PS公式 / 5chスレ / 自前検証 —
+  非営利・広告なし<br>
   &copy; 2026 yotei-legends-wiki contributors —
   <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a> |
   本wikiはAI（Claude）を活用して作成されています
