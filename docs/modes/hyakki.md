@@ -34,3 +34,4 @@ description: "最高難度コンテンツ・百鬼の解放条件とルール"
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
 - [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式
+- [YouTube検証・構築例](../sources/youtube.md)
