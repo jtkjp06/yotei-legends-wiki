@@ -27,6 +27,8 @@ description: "侍のフォーカス武器・スキル・ビルド方針"
 - 八幡の怒りは九死ラストウェーブの切り札。奥義ダメージを盛らないと火力不足[（5ch報告）](../sources/5ch-threads.md)
 - 大太刀の「斬り返しの極意」が棒火矢兵に有効[（5ch報告）](../sources/5ch-threads.md)
 - 焔の剣（炎エンチャント）が強力。二刀流と組み合わせると強力なシナジーあり[（5ch報告）](../sources/5ch-threads.md)
+- **気力を使って体力回復**がマルチでも可能になった（前作との変更点）[（5ch報告）](../sources/5ch-threads.md)
+- 大太刀の△攻撃は**剛兵に特攻**判定あり。武器ごとに特攻対象が異なる[（5ch報告）](../sources/5ch-threads.md)
 
 ## 装備方針
 
@@ -35,6 +37,7 @@ description: "侍のフォーカス武器・スキル・ビルド方針"
 - 奥義ダメージUP は必須。盛らないと八幡がゴミになる
 - 近接ダメージUP との両立が理想
 - 気合酒（神品）との相性が良い（気力→奥義の回転率UP）
+- 焔の剣（炎エンチャント）+二刀の近接ダメージ盛りビルドが流行[（5ch報告）](../sources/5ch-threads.md)
 
 ## 九死での立ち回り
 
@@ -51,4 +54,6 @@ description: "侍のフォーカス武器・スキル・ビルド方針"
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式

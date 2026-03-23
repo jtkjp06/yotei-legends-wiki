@@ -23,6 +23,10 @@ description: "効率的な気レベルの上げ方と周回ルート"
     マッチング待ち時間がないため、ソロ奇譚周回が気上げには効率的。
     弓取で白金奇譚を回すと高速。[（5ch報告）](../sources/5ch-threads.md)
 
+!!! warning "気105以降の鈑化"
+    気105を超えるとドロップ装備のレベル上昇が明らかに減速する[（5ch報告）](../sources/5ch-threads.md)。
+    この帯に入ったら強化素材を惜しまず使って平均気を押し上げることが重要。
+
 ## 素材について
 
 - 装備のレアリティで入手素材が決まる
@@ -36,4 +40,6 @@ description: "効率的な気レベルの上げ方と周回ルート"
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式

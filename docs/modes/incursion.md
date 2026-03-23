@@ -23,6 +23,12 @@ description: "攻城のルール・ボス攻略"
 !!! info "その他の強敵・ギミック"
     - **樹木子**: 腫瘍が無い時は被ダメージが通らない。蕾を投げて当てると腫瘍等が吹き飛ぶギミック[（5ch報告）](../sources/5ch-threads.md)
     - **朧車**: 車の目玉で魂を集めて結界を剥がすギミックあり[（5ch報告）](../sources/5ch-threads.md)
+    - **扇子持ちの敵**: 他の敵にバフをかけるため優先して倒す[（5ch報告）](../sources/5ch-threads.md)
+    - **大筒鬼（青い鬼）**: 即死級火力かつ精度が高い。見つけ次第最優先で処理[（5ch報告）](../sources/5ch-threads.md)
+
+!!! tip "目潰し玉の有用性"
+    攻城のボス戦でも**目潰し玉→闇討ち**のコンボが極めて強力。
+    放心玉よりも目潰し玉を優先したい[（5ch報告）](../sources/5ch-threads.md)
 
 !!! warning "試しの符「増援」"
     攻城で「増援」を選ぶと雪女3体が追加出現する場合あり。
@@ -40,4 +46,6 @@ description: "攻城のルール・ボス攻略"
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式

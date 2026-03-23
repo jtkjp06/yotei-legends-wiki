@@ -51,8 +51,18 @@ description: "冥人奇譚を始めたばかりの人向けの進め方"
 - 推奨気より大幅に低い状態で高難度に突撃（他プレイヤーの迷惑）
 - 九死で落ちた拠点に居座る
 - 弓取で高台から降りず陣地防衛に参加しない
-- 飛び道具補給を独り占めする
+- フィールド上の弾薬ドロップを独り占めする
 - 試しの符で高難度縛りを選んで即死を繰り返す
+
+## 戦闘のTIPS
+
+- **特攻武器の△攻撃**で敵のよろめきを狙える。刀は刀、大太刀は剛兵、二刀は槍、槍は鏈鎌、鏈鎌は盾に特攻[（5ch報告）](../sources/5ch-threads.md)
+- **扇子持ちの敵を優先的に倒す**（他の敵にバフをかける）[（5ch報告）](../sources/5ch-threads.md)
+- **属性を纏っている敵**は倒し切るより属性解除が優先[（5ch報告）](../sources/5ch-threads.md)
+- **目潰し玉**が攻城・九死ともに極めて強力。闇討ちが全クラスで可能なため、目潰し→闇討ち連打が基本戦術[（5ch報告）](../sources/5ch-threads.md)
+- **放心玉**は前作より弱体化しており、よろめき時間が短くなっている[（5ch報告）](../sources/5ch-threads.md)
+- **受け流しキャンセル**（受け流しから蘇生等への繋ぎ）が今作ではできない模様[（5ch報告）](../sources/5ch-threads.md)
+- **気力を使って体力回復**がマルチでも使用可能になった（前作との変更点）[（5ch報告）](../sources/5ch-threads.md)
 
 ---
 
@@ -60,4 +70,6 @@ description: "冥人奇譚を始めたばかりの人向けの進め方"
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式

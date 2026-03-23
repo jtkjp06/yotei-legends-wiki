@@ -43,6 +43,8 @@ description: "用心棒のフォーカス武器・スキル・ビルド方針"
 - 投げ物ダメージは全武具で盛れる模様[（5ch報告）](../sources/5ch-threads.md)
 - 種子島は本来のドロップ守備範囲外（ほぼ落ちない）
 - 撒菱＋種子島で遠距離火力を確保する構成も
+- **目潰し玉**が今作では最強格の暗具。目潰し→闇討ち連打が全クラスで可能なため、用心棒の投げデバフとのシナジーが良い[（5ch報告）](../sources/5ch-threads.md)
+- **放心玉**は前作より弱体化（よろめきが短い）。目潰し玉優先を推奨[（5ch報告）](../sources/5ch-threads.md)
 
 ## 九死での立ち回り
 
@@ -56,4 +58,6 @@ description: "用心棒のフォーカス武器・スキル・ビルド方針"
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式

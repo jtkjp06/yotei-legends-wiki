@@ -110,6 +110,7 @@ description: "装備スロット別の全アイテム一覧とモード別ドロ
 !!! tip "神品のドロップ"
     神品（レジェンダリー）は**黄金以上の難易度**で低確率ドロップ。
     難易度が高いほどドロップ率が上がる（体感）。[（5ch報告）](../sources/5ch-threads.md)
+    九死の黄金で神品2個同時ドロップの報告あり。攻城でもレジェンダリーが落ちる[（5ch報告）](../sources/5ch-threads.md)
 
 ### クラス別ドロップ傾向
 
@@ -136,6 +137,11 @@ description: "装備スロット別の全アイテム一覧とモード別ドロ
 
 <!-- TODO: 各モードの正確なドロップ数・確率を実測で更新 -->
 
+!!! info "ゴースト武器の変更点（前作との比較）"
+    - **放心玉**: 前作より大幅弱体化。はじけたときの敵のよろめき動作がかなり短くなっている[（5ch報告）](../sources/5ch-threads.md)
+    - **目潰し玉**: 今作最強格の暗具という声も。全クラスの闇討ちが早いため、目潰し→闇討ちの連続攻撃が極めて強力[（5ch報告）](../sources/5ch-threads.md)
+    - **炖烙玉（ほうらく）**: 前作と比べ大幅弱体化との報告が多数[（5ch報告）](../sources/5ch-threads.md)
+
 詳しい周回ルートは[気レベル上げ・周回](../guide/ki-farming.md)を参照。
 
 ---
@@ -144,4 +150,6 @@ description: "装備スロット別の全アイテム一覧とモード別ドロ
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式
