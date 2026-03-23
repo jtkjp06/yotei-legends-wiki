@@ -137,10 +137,11 @@ description: "装備スロット別の全アイテム一覧とモード別ドロ
 
 <!-- TODO: 各モードの正確なドロップ数・確率を実測で更新 -->
 
-!!! info "ゴースト武器の変更点（前作との比較）"
+!!! info "ゴースト武器・飛び道具のトレンド"
     - **放心玉**: 前作より大幅弱体化。はじけたときの敵のよろめき動作がかなり短くなっている[（5ch報告）](../sources/5ch-threads.md)
     - **目潰し玉**: 今作最強格の暗具という声も。全クラスの闇討ちが早いため、目潰し→闇討ちの連続攻撃が極めて強力[（5ch報告）](../sources/5ch-threads.md)
     - **炖烙玉（ほうらく）**: 前作と比べ大幅弱体化との報告が多数[（5ch報告）](../sources/5ch-threads.md)
+    - **火縄銃**: YouTuber等の検証例では今作の火縄銃はスペックが高く、弓より銃が選ばれやすい構成バリエーションもあるようです。[（YouTube検証例）](../sources/youtube.md)
 
 詳しい周回ルートは[気レベル上げ・周回](../guide/ki-farming.md)を参照。
 
@@ -153,3 +154,4 @@ description: "装備スロット別の全アイテム一覧とモード別ドロ
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
 - [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式
+- [YouTube検証・構築例](../sources/youtube.md)
