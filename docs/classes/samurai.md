@@ -22,6 +22,7 @@ description: "侍のフォーカス武器・スキル・ビルド方針"
 
 ## 特徴
 
+- 近日のアップデート（v1.512など）で「Vitality I」の効果等の体力関連バフが入り、生存力が向上しています。[（YouTube検証等の報告）](../sources/youtube.md)
 - 大太刀のリーチと火力で前線を維持するタンク＆DPS
 - **二刀流**（Dual Katanas）の奥義とコンボが本編さながらに強力だが、気力が枯渇しやすいためスキルや装備でのカバーが必要[（5ch報告）](../sources/5ch-threads.md)
 - 八幡の怒りは九死ラストウェーブの切り札。奥義ダメージを盛らないと火力不足[（5ch報告）](../sources/5ch-threads.md)
@@ -38,6 +39,10 @@ description: "侍のフォーカス武器・スキル・ビルド方針"
 - 近接ダメージUP との両立が理想
 - 気合酒（神品）との相性が良い（気力→奥義の回転率UP）
 - 焔の剣（炎エンチャント）+二刀の近接ダメージ盛りビルドが流行[（5ch報告）](../sources/5ch-threads.md)
+
+!!! info "参考例：生存型タンクビルド"
+    プレイヤーの検証・運用例として、陣地の中での生存に全ての特化を振る「究極の侍」ビルドの運用報告もあります。
+    味方の崩壊を防ぐ頼もしい構成の一例とされています。[（YouTube構築例）](../sources/youtube.md)
 
 ## 九死での立ち回り
 
@@ -57,3 +62,4 @@ description: "侍のフォーカス武器・スキル・ビルド方針"
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
 - [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式
+- [YouTube検証・構築例](../sources/youtube.md)

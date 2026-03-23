@@ -27,6 +27,7 @@ description: "弓取のフォーカス武器・スキル・ビルド方針"
 - **長弓**は引き絞りに時間がかかりすぎるため、乱戦での運用は難しいとの声も[（5ch報告）](../sources/5ch-threads.md)
 - サブ武器として、名品「半弓 嵐」等の**オートエイム半弓**を採用すると取り回しが劇的に改善する[（5ch報告）](../sources/5ch-threads.md)
 - 「**必中の弓**」は非常に強力だが、1回で矢を3本消費するため息切れに注意[（5ch報告）](../sources/5ch-threads.md)
+  - ※YouTube上の検証動画等において、この「必中の弓（True Aim Yumi）」を入手した弓取が極めて高い火力を発揮し、他クラスを凌駕するという参考例の報告や意見も上がっています。[（YouTube報告等）](../sources/youtube.md)
 - 格上がると「HSで矢消費なし」が解放され弾切れ問題が解消
 
 !!! danger "3/14アプデでナーフ"
@@ -62,3 +63,4 @@ description: "弓取のフォーカス武器・スキル・ビルド方針"
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
 - [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式
+- [YouTube検証・構築例](../sources/youtube.md)
