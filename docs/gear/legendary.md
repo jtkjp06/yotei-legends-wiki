@@ -69,4 +69,6 @@ description: "全神品装備の名前・スロット・固有効果"
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式
