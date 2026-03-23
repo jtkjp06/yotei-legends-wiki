@@ -26,7 +26,7 @@ description: "忍のフォーカス武器・スキル・ビルド方針"
 - 精霊剥がしにも鎖鎌が便利
 - 分身スキルあり（闇討ち→分身生成）。ヘイト分散に有効
 - **育つまでが弱い**。格20解放が特に重要[（5ch報告）](../sources/5ch-threads.md)
-- 闇烏の連打は今作では不可能[（5ch報告）](../sources/5ch-threads.md)
+- 今作では気力と奥義ゲージが別枠になっており、闇烏の連続発動は工夫次第で可能との報告あり[（5ch報告）](../sources/5ch-threads.md)
 
 !!! info "3/14アプデ"
     忍のマスク（頭巾）がバグで外せなかった問題が修正。
@@ -52,4 +52,6 @@ description: "忍のフォーカス武器・スキル・ビルド方針"
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式

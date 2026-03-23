@@ -35,9 +35,9 @@ description: "弓取のフォーカス武器・スキル・ビルド方針"
 
 ## 弾薬管理の重要性
 
-- **飛び道具補給は全員共有リソース**（5ch報告。前作は個別だった）
+- 飛び道具等のアイテム補充は陣地での購入を含め**個人リソース（勾玉でそれぞれ回収・購入）**です[（5ch報告）](../sources/5ch-threads.md)。
 - 長弓は10本しかない。序盤は近接で節約し、終盤のエリート大群に火力を集中
-- 弓取がいる場合、他クラスは弾薬を譲るのが基本マナー（ただし強制ではない）
+- フィールド上にドロップする弾薬は早い者勝ちで拾うことになるため、弓取がいる場合は他クラスは譲り合うのがマナーとなります[（5ch報告）](../sources/5ch-threads.md)。
 
 ## 九死での注意
 
@@ -59,4 +59,6 @@ description: "弓取のフォーカス武器・スキル・ビルド方針"
 
 - [goylegends.com](https://goylegends.com/)
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
+- [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式
