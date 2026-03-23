@@ -77,9 +77,9 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 !!! tip "クラス選びのポイント"
     - **初心者向け**: 侍・用心棒（シンプルな立ち回りで活躍しやすい）
     - **FPS得意**: 弓取（ヘッドショット精度が全て。装備が揃えば最強）
-    - **やり込み向け**: 忍（格20解放が必須。育つまでが弱い）
+    - **やり込み向け**: 忍（格の解放が必須級。育つまでが弱い）
 
-    → 全クラスで格20解放が重要。黄金九死に行く前に格20まで育てよう。[（5ch報告）](sources/5ch-threads.md)
+    → 全クラスで格を上げることが重要。**格24で全ての固有能力と技が解放される**ため、黄金九死に行く前にしっかり育てよう。[（YouTube検証枠）](sources/youtube.md)
 
 ---
 
@@ -236,3 +236,4 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)（>>278, >>375, >>403 等の難易度・推奨気に関する報告）
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
 - [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
+- [YouTube検証・構築例](sources/youtube.md)

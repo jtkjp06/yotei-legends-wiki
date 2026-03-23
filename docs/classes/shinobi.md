@@ -25,7 +25,7 @@ description: "忍のフォーカス武器・スキル・ビルド方針"
 - 鎖鎌のぶん回しがマルチでは意外と強い。敵のガードが本編より緩いため[（5ch報告）](../sources/5ch-threads.md)
 - 精霊剥がしにも鎖鎌が便利
 - 分身スキルあり（闇討ち→分身生成）。ヘイト分散に有効
-- **育つまでが弱い**。格20解放が特に重要[（5ch報告）](../sources/5ch-threads.md)
+- **育つまでが弱い**。格を上げて能力解放していくことが特に重要[（5ch・YouTube検証報告）](../sources/5ch-threads.md)
 - 今作では気力と奥義ゲージが別枠になっており、闇烏の連続発動は工夫次第で可能との報告あり[（5ch報告）](../sources/5ch-threads.md)
 
 !!! info "3/14アプデ"
@@ -55,3 +55,4 @@ description: "忍のフォーカス武器・スキル・ビルド方針"
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
 - [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
 - PS公式
+- [YouTube検証・構築例](../sources/youtube.md)
