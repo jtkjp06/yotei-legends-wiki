@@ -5,12 +5,12 @@ description: "全神品装備の名前・スロット・固有効果"
 
 # 神品（レジェンダリー）一覧
 
-<div class="wiki-img-wrap">
-  <img src="../images/placeholder_item.svg" alt="神品アイテム画像（準備中）" />
+<div class="wiki-img-wrap" markdown>
+![神品アイテム画像（準備中）](../images/placeholder_item.svg)
 </div>
 
 !!! note "画像について"
-    神品の外観スクリーンショットをお持ちの方は [GitHub](https://github.com/jtkjp06/yotei-legends-wiki) でPRをお送りください。
+    キャラクター・スキルのスクリーンショットをお持ちの方は [GitHub](https://github.com/jtkjp06/yotei-legends-wiki) でPRをお送りください。
 
 !!! info "情報源"
     goylegends.com の一覧をベースに、5chスレの実測効果を追記。
@@ -68,8 +68,8 @@ description: "全神品装備の名前・スロット・固有効果"
 ## ソース
 
 - [goylegends.com](https://goylegends.com/)
-- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- PS公式 — PlayStation Blog 2026/02/13
+- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)（>>278, >>375, >>403 等の難易度・推奨気に関する報告）
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
 - [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
-- PS公式
 - [YouTube検証・構築例](../sources/youtube.md)

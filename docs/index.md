@@ -11,7 +11,7 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 
 </div>
 
-!!! tip "情報提供歓迎"
+!!! info "情報提供歓迎"
     データの誤り・追加情報は [GitHub Issues](https://github.com/jtkjp06/yotei-legends-wiki/issues) まで。
 
 !!! info "配信情報"
@@ -231,7 +231,7 @@ Ghost of Yōtei 無料DLC「冥人奇譚（Legends）」の日本語攻略wiki
 
 ## ソース
 
-- [goylegends.com](https://goylegends.com/)（各種基本データ）
+- [goylegends.com](https://goylegends.com/)
 - PS公式 — PlayStation Blog 2026/02/13
 - [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)（>>278, >>375, >>403 等の難易度・推奨気に関する報告）
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)

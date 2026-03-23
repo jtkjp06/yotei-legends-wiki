@@ -5,8 +5,8 @@ description: "忍のフォーカス武器・スキル・ビルド方針"
 
 # 忍（Shinobi）
 
-<div class="wiki-img-wrap">
-  <img src="../images/placeholder_shinobi.svg" alt="忍（Shinobi）キャラクター画像（準備中）" />
+<div class="wiki-img-wrap" markdown>
+![忍（Shinobi）キャラクター画像（準備中）](../images/placeholder_shinobi.svg)
 </div>
 
 !!! note "画像について"
@@ -51,8 +51,8 @@ description: "忍のフォーカス武器・スキル・ビルド方針"
 ## ソース
 
 - [goylegends.com](https://goylegends.com/)
-- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)
+- PS公式 — PlayStation Blog 2026/02/13
+- [5chスレ Part1](https://pug.5ch.io/test/read.cgi/famicom/1772260586/)（>>278, >>375, >>403 等の難易度・推奨気に関する報告）
 - [5chスレ Part2](https://pug.5ch.io/test/read.cgi/famicom/1773502432/)
 - [5chスレ Part3](https://pug.5ch.io/test/read.cgi/famicom/1774067069/)
-- PS公式
 - [YouTube検証・構築例](../sources/youtube.md)
